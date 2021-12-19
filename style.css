@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color:rgb(240, 233, 195);
+}
+
+h1 {
+    font-family: 'Italic', cursive;
+}
+
+input {
+    background-color: mediumaquamarine;
+}
+
+button {
+    background-color: rgb(72, 255, 0);
+    color: rgb(58, 133, 62);
+}
